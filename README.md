@@ -1,5 +1,5 @@
 # network-posts-extended
- About  This is the plugin that is no longer supported that Marketing needs for the blog.utc.edu homepage. 
+This is the plugin that is no longer supported that Marketing needs for the blog.utc.edu homepage. 
 
 This plugin was originally found here: https://wordpress.org/plugins/network-posts-extended/, but is no longer supported. Downloads of this plugin were closed as of 5/19/2025.
 
